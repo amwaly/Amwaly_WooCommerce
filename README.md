@@ -1,5 +1,5 @@
-# WP_WooCommerce
-Use this WooCommerce payment gateway plugin to enable clients of your store to pay using UZET gateway.
+# Amwaly_WooCommerce
+Use this WooCommerce payment gateway plugin to enable clients of your store to pay using Amwaly gateway.
 
 
 ## To run a payment gateway via WordPress
@@ -26,10 +26,10 @@ Follow the following steps
 ```
 
 ```bash
-  7-  Enable UZET Payment Gateway
+  7-  Enable Amwaly Payment Gateway
 ```
 ```bash
-  8-  Click On UZET Payment Gateway
+  8-  Click On Amwaly Payment Gateway
 ```
 ```bash
   8-  Type in your APi's information and save
